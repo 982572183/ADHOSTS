@@ -1,0 +1,2 @@
+# ADHOSTS
+Customize ad hosts
